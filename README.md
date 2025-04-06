@@ -1,4 +1,4 @@
-# ctf-writeups
+# CTF Writeups
 
 3/29/2025 [Codegate 2025](https://hackmd.io/@lunbun/r1atUlLaJg)
 
